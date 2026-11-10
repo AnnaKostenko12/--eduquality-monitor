@@ -2,7 +2,11 @@
 АІС моніторингу якості освітніх послуг закладу. Python 3.8+, Tkinter, SQLite - без сторонніх бібліотек.
 
 ## Запуск
-    python main.py
+    EduQualityMonitor.exe або python main.py
+<img width="1532" height="748" alt="image" src="https://github.com/user-attachments/assets/50287da9-ac73-488b-9e02-a63530d497af" />
+<img width="1498" height="691" alt="image" src="https://github.com/user-attachments/assets/0b0d5fab-b50b-4fba-90ee-1c9fed56d742" />
+
+
 
 (на Linux, якщо немає Tkinter: sudo apt install python3-tk)
 
