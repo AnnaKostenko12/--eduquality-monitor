@@ -1,4 +1,4 @@
-# EduQuality Monitor (Python)
+# Курсова робота - EduQuality Monitor (Python). Костенко Анна - 44 група
 АІС моніторингу якості освітніх послуг закладу. Python 3.8+, Tkinter, SQLite - без сторонніх бібліотек.
 
 ## Запуск
